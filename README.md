@@ -31,4 +31,4 @@
 <br />
 
 ---
-<img align="left" alt="paypalsession's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&show_icons=true&count_private=true&hide_border=true" />
+<img align="left" alt="paypalsession's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=paypalsession&?theme=onedark&show_icons=true&show_icons=true&count_private=true&hide_border=true" />
