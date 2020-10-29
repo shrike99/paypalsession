@@ -1,15 +1,11 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Shrike - aka [paypalsession]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/paypalsession?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpaypalsession&screen_name=paypalsession)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm an alien
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+- Working on WingAIO
+- F*ck python, all my homies hate python
 
 ### Languages and Tools:
 
@@ -31,4 +27,4 @@
 <br />
 
 ---
-<img align="left" alt="paypalsession's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=paypalsession?theme=onedark&show_icons=true&show_icons=true&count_private=true&hide_border=true" />
+<img align="left" alt="paypalsession's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=paypalsession&theme=onedark&show_icons=true&show_icons=true&count_private=true&hide_border=true" />
