@@ -2,11 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/paypalsession?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpaypalsession&screen_name=paypalsession)
 
-## I'm an alien
-
-- Working on WingAIO
-- F*ck python, all my homies hate python
-
 ### Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
